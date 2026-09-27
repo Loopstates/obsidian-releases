@@ -56761,5 +56761,12 @@
     "author": "Louis Pereira",
     "description": "Sync your AudioPen voice notes into your vault as Markdown files. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "louispereira23/audiopen-obsidian-sync"
+  },
+    {
+    "id": "linten",
+    "name": "Linten: llms.txt Validator",
+    "author": "Loopstates",
+    "description": "Validate and scaffold spec-compliant llms.txt files with AI token budget estimation and live link health probing by Loopstates.",
+    "repo": "loopstates/linten-obsidian"
   }
 ]
